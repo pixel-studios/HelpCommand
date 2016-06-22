@@ -1,0 +1,10 @@
+name: HelpCommand
+author: Nathan_N
+version: 1.0.2
+website: https://www.spigotmc.org/resources/23444/
+main: com.github.nathannr.helpcommand.main.HelpCommand
+commands:
+  help:
+    description: Custom help command
+    usage: /<command>
+    aliases: [?]
